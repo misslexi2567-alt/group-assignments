@@ -15,8 +15,8 @@ This tutorial outlines the process of assigning security groups to users in Entr
 <p>
 Assigned HR-Staff-SecGroup to user Christ Wright.
 </p>
-<br />
-<p>
+<img width="1918" height="1075" alt="Screenshot 2026-08-24 192115" src="https://github.com/user-attachments/assets/12406977-f774-4251-8570-9ef8a432ae56" />
+
 <img width="1910" height="1060" alt="HR Group Members" src="https://github.com/user-attachments/assets/8d3178f1-af73-4572-bea9-8f42843830bc" />
 
 </p>
